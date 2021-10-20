@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Test-API 
-  description: Stuff 123
+  name: Test-API-2
+  description: Stuff 1233
   tags:
     - store
     - rest
